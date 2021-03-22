@@ -1,0 +1,3 @@
+Solutii obtinute cu A* cu euristica neadmisibila:
+A* cu euristica neadmisibila a intrat in timeout
+Timpul total de rulare pentru A* cu euristica neadmisibila este de 100034 milisecunde

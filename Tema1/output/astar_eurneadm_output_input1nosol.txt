@@ -1,0 +1,2 @@
+Solutii obtinute cu A* cu euristica neadmisibila:
+Timpul total de rulare pentru A* cu euristica neadmisibila este de 0 milisecunde

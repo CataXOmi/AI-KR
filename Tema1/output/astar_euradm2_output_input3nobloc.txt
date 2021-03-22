@@ -1,0 +1,145 @@
+Solutii obtinute cu A* cu euristica admisibila 2:
+Solutie:
+1)
+                /c\     
+[b]     [d] (e) [j]     
+[a]     [h] [g] [i]     
+###################################
+2)
+        [b]     /c\     
+        [d] (e) [j]     
+[a]     [h] [g] [i]     
+###################################
+3)
+        [a]             
+        [b]     /c\     
+        [d] (e) [j]     
+        [h] [g] [i]     
+###################################
+Cost: 4
+Lungime: 3
+Numarul de noduri este 11
+Timpul de rulare pe solutie este 0 milisecunde
+=======================
+
+Solutie:
+1)
+                /c\     
+[b]     [d] (e) [j]     
+[a]     [h] [g] [i]     
+###################################
+2)
+        [b]     /c\     
+        [d] (e) [j]     
+[a]     [h] [g] [i]     
+###################################
+3)
+        [a]             
+        [b]     /c\     
+        [d] (e) [j]     
+        [h] [g] [i]     
+###################################
+4)
+        /c\             
+        [a]             
+        [b]             
+        [d] (e) [j]     
+        [h] [g] [i]     
+###################################
+Cost: 5
+Lungime: 4
+Numarul de noduri este 15
+Timpul de rulare pe solutie este 0 milisecunde
+=======================
+
+Solutie:
+1)
+                /c\     
+[b]     [d] (e) [j]     
+[a]     [h] [g] [i]     
+###################################
+2)
+        [b]     /c\     
+        [d] (e) [j]     
+[a]     [h] [g] [i]     
+###################################
+3)
+        [b]     /c\     
+        [d] (e) [j]     
+        [h] [g] [i] [a] 
+###################################
+4)
+        [b] [a] /c\     
+        [d] (e) [j]     
+        [h] [g] [i]     
+###################################
+Cost: 6
+Lungime: 4
+Numarul de noduri este 23
+Timpul de rulare pe solutie este 8 milisecunde
+=======================
+
+Solutie:
+1)
+                /c\     
+[b]     [d] (e) [j]     
+[a]     [h] [g] [i]     
+###################################
+2)
+        [b]     /c\     
+        [d] (e) [j]     
+[a]     [h] [g] [i]     
+###################################
+3)
+        [a]             
+        [b]     /c\     
+        [d] (e) [j]     
+        [h] [g] [i]     
+###################################
+4)
+        [a]             
+        [b]             
+        [d] (e) [j]     
+        [h] [g] [i] /c\ 
+###################################
+5)
+        [a]             
+        [b] /c\         
+        [d] (e) [j]     
+        [h] [g] [i]     
+###################################
+Cost: 6
+Lungime: 5
+Numarul de noduri este 38
+Timpul de rulare pe solutie este 8 milisecunde
+=======================
+
+Solutie:
+1)
+                /c\     
+[b]     [d] (e) [j]     
+[a]     [h] [g] [i]     
+###################################
+2)
+        [b]     /c\     
+        [d] (e) [j]     
+[a]     [h] [g] [i]     
+###################################
+3)
+        [a]             
+        [b]     /c\     
+        [d] (e) [j]     
+        [h] [g] [i]     
+###################################
+4)
+        [b] [a] /c\     
+        [d] (e) [j]     
+        [h] [g] [i]     
+###################################
+Cost: 6
+Lungime: 4
+Numarul de noduri este 41
+Timpul de rulare pe solutie este 8 milisecunde
+=======================
+
+Timpul total de rulare pentru A* cu euristica admisibila 2 este de 8 milisecunde

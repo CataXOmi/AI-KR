@@ -1,0 +1,119 @@
+Solutii obtinute cu uniform cost search:
+Solutie:
+1)
+                /c\     
+[b]     [d] (e) [j]     
+[a]     [h] [g] [i]     
+###################################
+2)
+            [b] /c\     
+        [d] (e) [j]     
+[a]     [h] [g] [i]     
+###################################
+3)
+            [a]         
+            [b] /c\     
+        [d] (e) [j]     
+        [h] [g] [i]     
+###################################
+Cost: 4
+Lungime: 3
+Numarul de noduri este 357
+Timpul de rulare pe solutie este 85 milisecunde
+=======================
+
+Solutie:
+1)
+                /c\     
+[b]     [d] (e) [j]     
+[a]     [h] [g] [i]     
+###################################
+2)
+            [b] /c\     
+        [d] (e) [j]     
+[a]     [h] [g] [i]     
+###################################
+3)
+        [a] [b] /c\     
+        [d] (e) [j]     
+        [h] [g] [i]     
+###################################
+Cost: 4
+Lungime: 3
+Numarul de noduri este 382
+Timpul de rulare pe solutie este 100 milisecunde
+=======================
+
+Solutie:
+1)
+                /c\     
+[b]     [d] (e) [j]     
+[a]     [h] [g] [i]     
+###################################
+2)
+        [b]     /c\     
+        [d] (e) [j]     
+[a]     [h] [g] [i]     
+###################################
+3)
+        [b] [a] /c\     
+        [d] (e) [j]     
+        [h] [g] [i]     
+###################################
+Cost: 4
+Lungime: 3
+Numarul de noduri este 406
+Timpul de rulare pe solutie este 100 milisecunde
+=======================
+
+Solutie:
+1)
+                /c\     
+[b]     [d] (e) [j]     
+[a]     [h] [g] [i]     
+###################################
+2)
+        [b]     /c\     
+        [d] (e) [j]     
+[a]     [h] [g] [i]     
+###################################
+3)
+        [a]             
+        [b]     /c\     
+        [d] (e) [j]     
+        [h] [g] [i]     
+###################################
+Cost: 4
+Lungime: 3
+Numarul de noduri este 437
+Timpul de rulare pe solutie este 116 milisecunde
+=======================
+
+Solutie:
+1)
+                /c\     
+[b]     [d] (e) [j]     
+[a]     [h] [g] [i]     
+###################################
+2)
+        /c\             
+[b]     [d] (e) [j]     
+[a]     [h] [g] [i]     
+###################################
+3)
+        /c\ [b]         
+        [d] (e) [j]     
+[a]     [h] [g] [i]     
+###################################
+4)
+        /c\ [b] [a]     
+        [d] (e) [j]     
+        [h] [g] [i]     
+###################################
+Cost: 5
+Lungime: 4
+Numarul de noduri este 1523
+Timpul de rulare pe solutie este 935 milisecunde
+=======================
+
+Timpul total de rulare pentru uniform cost search este de 937 milisecunde

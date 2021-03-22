@@ -1,0 +1,2 @@
+Solutii obtinute cu depth first:
+Timpul total de rulare pentru de depth first este de 0 milisecunde

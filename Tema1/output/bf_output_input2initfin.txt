@@ -1,0 +1,92 @@
+Solutii obtinute cu breadth first:
+Solutie:
+1)
+/c\                 
+[b] (e) [d]         
+[a] [g] [h]         
+########################
+Cost: 0
+Lungime: 1
+Numarul de noduri este 0
+Timpul de rulare pe solutie este 0 milisecunde
+=======================
+
+Solutie:
+1)
+/c\                 
+[b] (e) [d]         
+[a] [g] [h]         
+########################
+2)
+    /c\             
+[b] (e) [d]         
+[a] [g] [h]         
+########################
+Cost: 1
+Lungime: 2
+Numarul de noduri este 4
+Timpul de rulare pe solutie este 0 milisecunde
+=======================
+
+Solutie:
+1)
+/c\                 
+[b] (e) [d]         
+[a] [g] [h]         
+########################
+2)
+        /c\         
+[b] (e) [d]         
+[a] [g] [h]         
+########################
+Cost: 1
+Lungime: 2
+Numarul de noduri este 7
+Timpul de rulare pe solutie este 0 milisecunde
+=======================
+
+Solutie:
+1)
+/c\                 
+[b] (e) [d]         
+[a] [g] [h]         
+########################
+2)
+    /c\             
+[b] (e) [d]         
+[a] [g] [h]         
+########################
+3)
+        /c\         
+[b] (e) [d]         
+[a] [g] [h]         
+########################
+Cost: 2
+Lungime: 3
+Numarul de noduri este 16
+Timpul de rulare pe solutie este 0 milisecunde
+=======================
+
+Solutie:
+1)
+/c\                 
+[b] (e) [d]         
+[a] [g] [h]         
+########################
+2)
+        /c\         
+[b] (e) [d]         
+[a] [g] [h]         
+########################
+3)
+    /c\             
+[b] (e) [d]         
+[a] [g] [h]         
+########################
+Cost: 2
+Lungime: 3
+Numarul de noduri este 22
+Timpul de rulare pe solutie este 0 milisecunde
+=======================
+
+Timpul total de rulare pentru breadth first 0 milisecunde

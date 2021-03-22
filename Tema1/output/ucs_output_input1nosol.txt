@@ -1,0 +1,2 @@
+Solutii obtinute cu uniform cost search:
+Timpul total de rulare pentru uniform cost search este de 0 milisecunde

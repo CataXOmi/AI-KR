@@ -1,0 +1,109 @@
+Solutii obtinute cu depth first:
+Solutie:
+1)
+/c\                 
+[b] (e) [d]         
+[a] [g] [h]         
+########################
+Cost: 0
+Lungime: 1
+Numarul de noduri este 0
+Timpul de rulare pe solutie este 0 milisecunde
+=======================
+
+Solutie:
+1)
+/c\                 
+[b] (e) [d]         
+[a] [g] [h]         
+########################
+2)
+    /c\             
+[b] (e) [d]         
+[a] [g] [h]         
+########################
+Cost: 1
+Lungime: 2
+Numarul de noduri este 4
+Timpul de rulare pe solutie este 0 milisecunde
+=======================
+
+Solutie:
+1)
+/c\                 
+[b] (e) [d]         
+[a] [g] [h]         
+########################
+2)
+    /c\             
+[b] (e) [d]         
+[a] [g] [h]         
+########################
+3)
+        /c\         
+[b] (e) [d]         
+[a] [g] [h]         
+########################
+Cost: 2
+Lungime: 3
+Numarul de noduri este 7
+Timpul de rulare pe solutie este 0 milisecunde
+=======================
+
+Solutie:
+1)
+/c\                 
+[b] (e) [d]         
+[a] [g] [h]         
+########################
+2)
+    /c\             
+[b] (e) [d]         
+[a] [g] [h]         
+########################
+3)
+[b] (e) [d]         
+[a] [g] [h] /c\     
+########################
+4)
+        /c\         
+[b] (e) [d]         
+[a] [g] [h]         
+########################
+Cost: 3
+Lungime: 4
+Numarul de noduri este 13
+Timpul de rulare pe solutie este 0 milisecunde
+=======================
+
+Solutie:
+1)
+/c\                 
+[b] (e) [d]         
+[a] [g] [h]         
+########################
+2)
+    /c\             
+[b] (e) [d]         
+[a] [g] [h]         
+########################
+3)
+[b] (e) [d]         
+[a] [g] [h] /c\     
+########################
+4)
+[b] (e) [d]         
+[a] [g] [h]     /c\ 
+########################
+5)
+        /c\         
+[b] (e) [d]         
+[a] [g] [h]         
+########################
+Cost: 4
+Lungime: 5
+Numarul de noduri este 15
+Timpul de rulare pe solutie este 0 milisecunde
+=======================
+
+Timpul total de rulare pentru depth first este de 0 milisecunde

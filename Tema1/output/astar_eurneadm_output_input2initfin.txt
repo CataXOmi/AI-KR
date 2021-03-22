@@ -1,0 +1,90 @@
+Solutii obtinute cu A* cu euristica neadmisibila:
+Solutie:
+1)
+/c\                 
+[b] (e) [d]         
+[a] [g] [h]         
+########################
+Cost: 0
+Lungime: 1
+Numarul de noduri este 0
+Timpul de rulare pe solutie este 0 milisecunde
+=======================
+
+Solutie:
+1)
+/c\                 
+[b] (e) [d]         
+[a] [g] [h]         
+########################
+2)
+        /c\         
+[b] (e) [d]         
+[a] [g] [h]         
+########################
+Cost: 1
+Lungime: 2
+Numarul de noduri este 3
+Timpul de rulare pe solutie este 0 milisecunde
+=======================
+
+Solutie:
+1)
+/c\                 
+[b] (e) [d]         
+[a] [g] [h]         
+########################
+2)
+    /c\             
+[b] (e) [d]         
+[a] [g] [h]         
+########################
+Cost: 1
+Lungime: 2
+Numarul de noduri este 5
+Timpul de rulare pe solutie este 0 milisecunde
+=======================
+
+Solutie:
+1)
+/c\                 
+[b] (e) [d]         
+[a] [g] [h]         
+########################
+2)
+[b] (e) [d]         
+[a] [g] [h] /c\     
+########################
+3)
+        /c\         
+[b] (e) [d]         
+[a] [g] [h]         
+########################
+Cost: 2
+Lungime: 3
+Numarul de noduri este 8
+Timpul de rulare pe solutie este 0 milisecunde
+=======================
+
+Solutie:
+1)
+/c\                 
+[b] (e) [d]         
+[a] [g] [h]         
+########################
+2)
+[b] (e) [d]         
+[a] [g] [h]     /c\ 
+########################
+3)
+        /c\         
+[b] (e) [d]         
+[a] [g] [h]         
+########################
+Cost: 2
+Lungime: 3
+Numarul de noduri este 9
+Timpul de rulare pe solutie este 0 milisecunde
+=======================
+
+Timpul total de rulare pentru A* cu euristica neadmisibila este de 0 milisecunde

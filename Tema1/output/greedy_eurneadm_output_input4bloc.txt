@@ -1,0 +1,3 @@
+Solutii obtinute cu greedy cu euristica neadmisibila:
+Greedy cu euristica neadmisibila a intrat in timeout
+Timpul total de rulare pentru greedy cu euristica neadmisibila este de 100094 milisecunde

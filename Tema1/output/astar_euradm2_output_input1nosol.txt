@@ -1,0 +1,2 @@
+Solutii obtinute cu A* cu euristica admisibila 2:
+Timpul total de rulare pentru A* cu euristica admisibila 2 este de 0 milisecunde

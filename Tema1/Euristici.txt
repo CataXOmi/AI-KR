@@ -1,0 +1,30 @@
+Idei pentru euristici
+
+
+euristici admisibile
+!!!alegere: 1.numar de blocuri care nu sunt la locul lor(cele mai mici K turnuri => suma lungimilor turnurilor)*cost minim
+         2.numar de mutari * cost fiecare mutare
+
+euristici neadmisibile
+!!!alegere:    numarul blocuri care nu sunt la locul lor*100 + numarul blocuri care sunt la locul lor
+
+# consistenta
+2 noduri care nu sunt scop x1, x2
+avem cost de la x1 la x2
+
+euristici admisibile
+1.numarul de mutari pentru a ajunge in starea finala daca consideram costul 1 pt fiecare mutare
+numar de mutari*cost minim
+2.cu distanta manhatan, suma numarului de mutari ale fiecarui bloc pentru a ajunge
+din starea initiala in finala
+3.la fel ca 1, dar adunam costul real al mutari
+numar de mutari + costuri reale
+4. sa luam si blocurile care sunt la locul lor, pe langa blocurile care nu sunt la locul lor, dar sunt deasupra unor blocuri care nu sunt la locul lor si le adunam si pe acestea
+
+euristici neadmisibile
+1. sa adunam si blocurile care sunt la locul lor
+2. sa adunam la blocuri si cate blocuri sunt deasupra
+a b c
+la a adun pt b si c
+la b adun si pt c
+la c adun si pt el

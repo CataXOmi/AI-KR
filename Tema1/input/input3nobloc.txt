@@ -1,0 +1,7 @@
+3
+cub(a),cub(b)
+#
+cub(h),cub(d)
+cub(g),sfera(e)
+cub(i),cub(j),piramida(c)
+#

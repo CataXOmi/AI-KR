@@ -1,0 +1,3 @@
+Solutii obtinute cu uniform cost search:
+Uniform cost search a intrat in timeout
+Timpul total de rulare pentru uniform cost search este de 100045 milisecunde

@@ -1,0 +1,2 @@
+Solutii obtinute cu greedy cu euristica neadmisibila:
+Timpul total de rulare pentru greedy cu euristica neadmisibila este de 0 milisecunde

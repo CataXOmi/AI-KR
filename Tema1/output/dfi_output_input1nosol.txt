@@ -1,0 +1,2 @@
+Solutii obtinute cu depth first iterativ:
+Timpul total de rulare pentru depth first iterativ este de 16 milisecunde

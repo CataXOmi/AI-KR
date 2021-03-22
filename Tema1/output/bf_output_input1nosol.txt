@@ -1,0 +1,2 @@
+Solutii obtinute cu breadth first:
+Timpul total de rulare pentru breadth first este de 0 milisecunde

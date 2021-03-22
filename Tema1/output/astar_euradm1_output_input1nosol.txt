@@ -1,0 +1,2 @@
+Solutii obtinute cu A* cu euristica admisibila 1:
+Timpul total de rulare pentru breadth A* cu euristica admisibila 1 este de 0 milisecunde
