@@ -1,0 +1,14 @@
+
+Idei de estimare:
+
+estimare scor
+1. nr linii deschise calculator-nr linii deschise utilizator
+2. la fel ca 1, dar pe fiecare linie va fi numarul de simboluri, si se va face 
+diferenta intre suma simbolurilor pt calculator si suma simbolurilor 
+pt utilizator
+
+
+
+1. scor juc max - scor juc min
+2. ne uitam si la simbolurile cucerite
+   vedem cateva simboluri protejate are max si scadem cate simboluri protejate are min
